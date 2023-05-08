@@ -1,5 +1,13 @@
 # Quake 2 RPG Mod by Matthew LiDonni
 A Quake 2 mod inspired by Morrowind and other RPG's for IT 266 Game Mod Development
+
+- To Install:
+    - Take all files here and put into your Quake 2 directory in a folder called "mod" (Or whatever you like, but you MUST use that same name when in the console later)
+        - Heirarchy should be: C:\...\...\steamapps\Quake 2\mod\(game .dll and other mod contents)
+    - Launch Quake 2
+    - From the main menu, press the ~ key to open the console and type "game mod" (or whatever you named your folder)
+    - Game will reload, then launch a new game (easy recommended because you start off with horrible stats)
+
 - Added/changed controls:
     - F: Stow/Draw Weapon
     - J: Show/Hide Journal
