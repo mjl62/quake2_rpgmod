@@ -1,4 +1,4 @@
-# quake2_rpgmod
+# Quake 2 RPG Mod by Matthew LiDonni
 A Quake 2 mod inspired by Morrowind and other RPG's for IT 266 Game Mod Development
 - Added/changed controls:
     - F: Stow/Draw Weapon
