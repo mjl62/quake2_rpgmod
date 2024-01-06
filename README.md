@@ -1,7 +1,7 @@
 # Quake 2 RPG Mod by Matthew LiDonni
 A Quake 2 mod inspired by Morrowind and other RPG's for IT 266 Game Mod Development
 
-# I HAVE NOT TESTED THIS SINCE THE REMASTER UPDATE, BUT IT *SHOULD* STILL WORK
+## I HAVE NOT TESTED THIS SINCE THE REMASTER UPDATE, BUT IT *SHOULD* STILL WORK ON THE OLDER VERSION
 
 - To Install:
     - Take all files here and put into your Quake 2 directory in a folder called "mod" (Or whatever you like, but you MUST use that same name when in the console later)
